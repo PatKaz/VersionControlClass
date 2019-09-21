@@ -10,19 +10,20 @@ namespace VersionControlClass
     {
         static void Main(string[] args)
         {
-
             bool quit = false;
-            while(!quit)
+
+
+            while (!quit)
             {
+                Console.WriteLine("2. Substract");
                 Console.Clear();
                 Console.WriteLine("1. Addition");
-                Console.WriteLine("2. Substract");
-                Console.WriteLine("3. Multiply");
                 Console.WriteLine("4. Divide");
+                Console.WriteLine("3. Multiply");
                 Console.WriteLine("0. Quit");
 
-                switch(System.Convert.ToInt32(Console.ReadLine()))
-                { 
+                switch (System.Convert.ToInt32(Console.ReadLine()))
+                {
                     case 1:
                         Addition();
                         continue;
@@ -41,7 +42,6 @@ namespace VersionControlClass
                 }
 
             }
-
         }
 
         private static void Addition()

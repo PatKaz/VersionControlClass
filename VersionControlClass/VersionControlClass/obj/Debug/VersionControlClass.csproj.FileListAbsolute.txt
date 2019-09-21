@@ -1,1 +1,6 @@
 C:\Users\studentwsb\Documents\Visual Studio 2017\Project\VersionControlClass\VersionControlClass\VersionControlClass\bin\Debug\VersionControlClass.exe.config
+C:\Users\studentwsb\Documents\Visual Studio 2017\Project\VersionControlClass\VersionControlClass\VersionControlClass\bin\Debug\VersionControlClass.exe
+C:\Users\studentwsb\Documents\Visual Studio 2017\Project\VersionControlClass\VersionControlClass\VersionControlClass\bin\Debug\VersionControlClass.pdb
+C:\Users\studentwsb\Documents\Visual Studio 2017\Project\VersionControlClass\VersionControlClass\VersionControlClass\obj\Debug\VersionControlClass.csprojResolveAssemblyReference.cache
+C:\Users\studentwsb\Documents\Visual Studio 2017\Project\VersionControlClass\VersionControlClass\VersionControlClass\obj\Debug\VersionControlClass.exe
+C:\Users\studentwsb\Documents\Visual Studio 2017\Project\VersionControlClass\VersionControlClass\VersionControlClass\obj\Debug\VersionControlClass.pdb

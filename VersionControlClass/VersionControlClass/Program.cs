@@ -12,18 +12,18 @@ namespace VersionControlClass
         {
             bool quit = false;
 
-
             while (!quit)
             {
-                Console.WriteLine("2. Substract");
                 Console.Clear();
+                Console.WriteLine("2. Substract");
                 Console.WriteLine("1. Addition");
                 Console.WriteLine("4. Divide");
                 Console.WriteLine("3. Multiply");
                 Console.WriteLine("0. Quit");
 
-                switch (System.Convert.ToInt32(Console.ReadLine()))
-                {
+                //eh
+                switch(System.Convert.ToInt32(Console.ReadLine()))
+                { 
                     case 1:
                         Addition();
                         continue;
